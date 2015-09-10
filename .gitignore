@@ -1,0 +1,7 @@
+
+
+mstpd-code-61-trunk/*
+
+*.so
+*.o
+*.out
